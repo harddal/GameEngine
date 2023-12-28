@@ -1,0 +1,17 @@
+#pragma once
+
+#include "Engine/World/Components/BillboardSpriteComponent.h"
+#include "Engine/World/Components/CameraComponent.h"
+#include "Engine/World/Components/CCTComponent.h"
+#include "Engine/World/Components/DebugMeshComponent.h"
+#include "Engine/World/Components/DebugSpriteComponent.h"
+#include "Engine/World/Components/DescriptorComponent.h"
+#include "Engine/World/Components/LightComponent.h"
+#include "Engine/World/Components/MeshComponent.h"
+#include "Engine/World/Components/PhysicsComponent.h"
+#include "Engine/World/Components/PrefabComponent.h"
+#include "Engine/World/Components/RenderComponent.h"
+#include "Engine/World/Components/ScriptComponent.h"
+#include "Engine/World/Components/SoundComponent.h"
+#include "Engine/World/Components/SoundListenerComponent.h"
+#include "Engine/World/Components/TransformComponent.h"
